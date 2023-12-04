@@ -1,0 +1,19 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.navbar{
+    background-color: gold;
+}
+
+.card{
+    width: 375px;
+    height: 500px;
+    padding: 100px;
+    margin: 20px;
+    float: left;
+}
+.nav-item{
+    width: 500px;
+}
